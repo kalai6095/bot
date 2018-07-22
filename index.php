@@ -1538,13 +1538,13 @@ if($token=="kalaiselvan_chat_bot_challenge_token"){
   <script src="assets/js/main.js"></script>
 
 <script>
-  !function() {
+ /* !function() {
   var t; if (t = window.botsify = window.botsify = window.botsify || [], !t.init) 
   return t.invoked ? void (window.console && console.error && console.error("Botsify snippet included twice.")) : (
   t.load =function(e){	var o,n;	o=document.createElement("script"); e.type="text/javscript"; o.async=!0; 
   o.crossorigin="anonymous";o.src="https://botsify.com/web-bot/script/"+e+"/botsify.js";
   n=document.getElementsByTagName("script")[0];	n.parentNode.insertBefore(o,n); });
-  }(); botsify.load('z02BBevkNa8WZpX8013N023ZlVaMi0dX9nsbvT7m');
+  }(); botsify.load('z02BBevkNa8WZpX8013N023ZlVaMi0dX9nsbvT7m');*/
 </script>
 
 </body>
